@@ -1,4 +1,4 @@
-# Vite + React + TypeScript Starter
+# Project Company
 
 This project is a starter template for building a modern web application using Vite, React, and TypeScript. It includes a basic setup with Tailwind CSS for styling, React Router for routing, and context providers for theme and language management.
 
