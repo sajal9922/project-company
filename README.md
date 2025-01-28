@@ -29,10 +29,10 @@ This project is a starter template for building a modern web application using V
 
 1. Clone the repository:
 
-   ```sh
-   git clone https://github.com/sajal9922/project-company.git
-   cd project-company
-   ```
+```sh
+git clone https://github.com/sajal9922/project-company.git
+cd project-company
+```
 
 2. Install the dependencies:
 
